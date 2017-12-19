@@ -1,5 +1,4 @@
-# 2017-2
-Intelligent Mobile Robotics gradutate course -- 2017 2nd semester
+# Intelligent Mobile Robotics gradutate course -- 2017 2nd semester
 
 This repository has the final project of the student from the IMR graduate course at PUCRS, 2017/2 edition.
 
