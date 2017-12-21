@@ -1,0 +1,16 @@
+[submodule "pucrs_campus_gazebo"]
+	path = pucrs_campus_gazebo
+	url = https://github.com/imr-pucrs/pucrs_campus_gazebo.git
+[submodule "ceilingsegmentation"]
+	path = ceilingsegmentation
+	url = https://github.com/imr-pucrs/ceilingsegmentation.git
+[submodule "ros-gams-madara"]
+	path = ros-gams-madara
+	url = https://github.com/imr-pucrs/ros-gams-madara.git
+[submodule "turtlebot-gripper"]
+	path = turtlebot-gripper
+	url = https://github.com/imr-pucrs/turtlebot-gripper.git
+    branch = imr-2017
+[submodule "particle-filter"]
+	path = particle-filter
+	url = https://github.com/imr-pucrs/particle-filter.git
